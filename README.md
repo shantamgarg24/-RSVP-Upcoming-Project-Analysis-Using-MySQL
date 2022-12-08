@@ -1,1 +1,1 @@
-# -RSVP-Upcoming-Project-Analysis-Using-MySQL
+# RSVP-Upcoming-Project-Analysis-Using-MySQL
