@@ -1,4 +1,4 @@
-# RSVP-Upcoming-Project-Analysis-Using-MySQL
+# RSVP Upcoming Project Analysis Using MySQL
 
 ## Objective of this Case Study
 
